@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '...\Assets\_\Scripts\AI.cs'" />
     <option name="defaultScopeName" value="File '...\Assets\_\Scripts\AI.cs'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '...\Assets\_\Scripts\AI.cs'" />
   </component>
 </application>
