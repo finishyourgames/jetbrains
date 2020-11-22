@@ -28,5 +28,18 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="run.processes.with.pty" value="false" />
+    <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="DpaIcon" value="false" />
+        <entry key="Encoding" value="false" />
+        <entry key="Position" value="false" />
+        <entry key="RoslynIcon" value="false" />
+        <entry key="UnityStatusIcon" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+      </map>
+    </option>
   </component>
 </application>
