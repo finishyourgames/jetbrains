@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\Assets\Scripts'" />
-    <option name="defaultScopeName" value="Directory '...\Assets\Scripts'" />
+    <option name="customScope" value="Directory '...\Assets'" />
+    <option name="defaultScopeName" value="Directory '...\Assets'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\Assets\Scripts'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\Assets'" />
   </component>
 </application>
