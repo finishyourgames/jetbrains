@@ -23,6 +23,10 @@
       <rule entity="LOCAL_VARIABLE" visibility="ANY" specifier="ANY" prefix="" style="CAMEL_CASE" suffix="" />
     </rules>
   </Objective-C-extensions>
+  <codeStyleSettings language="EditorConfig">
+    <option name="SPACE_BEFORE_COLON" value="true" />
+    <option name="SPACE_AFTER_COLON" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <option name="RIGHT_MARGIN" value="240" />
     <option name="BRACE_STYLE" value="2" />
