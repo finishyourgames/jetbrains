@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\Assets\This Cannnon Is Mine'" />
-    <option name="defaultScopeName" value="Directory '...\Assets\This Cannnon Is Mine'" />
+    <option name="customScope" value="File '...\Assets\Scripts\Ball.cs'" />
+    <option name="defaultScopeName" value="File '...\Assets\Scripts\Ball.cs'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\Assets\This Cannnon Is Mine'" />
+    <option name="SEARCH_SCOPE" value="File '...\Assets\Scripts\Ball.cs'" />
   </component>
 </application>
