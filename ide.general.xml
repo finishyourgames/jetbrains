@@ -29,6 +29,9 @@
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="run.processes.with.pty" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
+    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
+    <entry key="use.tabbed.welcome.screen" value="true" />
+    <entry key="ide.new.project.model" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
